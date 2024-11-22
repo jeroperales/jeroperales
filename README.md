@@ -15,7 +15,7 @@
 </div>
 
 
-## 🌱 Currently Learning:
+## 🌱 Deepening Knowledge:
 <div>
  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> <!-- MYSQL -->
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <!-- REACT -->
