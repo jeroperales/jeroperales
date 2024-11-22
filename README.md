@@ -7,9 +7,8 @@
 </div>
 
 <div id="pez" align="center"> 
-<a href= "https://jeroperales.github.io"> <img src="https://github.com/user-attachments/assets/54178976-349c-4f64-b629-b599f224c66d" height="200px"> </a>  
+<a href= "https://jeroperales.github.io"> <img src="https://github.com/user-attachments/assets/54178976-349c-4f64-b629-b599f224c66d" height="150px"> </a>  
 </div>
-
 
 
 ## :hammer_and_wrench: Languages & Tools:
