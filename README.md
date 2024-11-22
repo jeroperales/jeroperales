@@ -1,17 +1,8 @@
-<div id="hey" align="center">
-  <h1>
-    Hi!
-    I'm Jero Perales
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
-  </h1>
+<div id="banner" align="center"> 
+<a href= "https://github.com/jeroperales"> <img src="https://github.com/user-attachments/assets/a227f642-c650-4f4b-b151-ef2c76d7f2c5"> </a>  
 </div>
 
-<div id="pez" align="center"> 
-<a href= "https://jeroperales.github.io"> <img src="https://github.com/user-attachments/assets/54178976-349c-4f64-b629-b599f224c66d" height="150px"> </a>  
-</div>
-
-
-## :hammer_and_wrench: Languages & Tools:
+## ❄️ Languages & Tools:
 <div>
  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <!-- JAVA -->
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">  <!-- C -->
@@ -52,4 +43,8 @@ I'm available and interested in internships, apprenticeships, or any opportunity
   <h1>
    <img src ="https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif"> Thank you for passing by! <img src ="https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif"> 
   </h1>
+</div>
+
+<div id="pez" align="center"> 
+<a href= "https://jeroperales.github.io"> <img src="https://github.com/user-attachments/assets/54178976-349c-4f64-b629-b599f224c66d" height="150px"> </a>  
 </div>
