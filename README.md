@@ -38,12 +38,6 @@ I have knowledge of HTML, CSS, Java, Angular, C, MySQL, and Git. I'm looking to 
 I'm available and interested in internships, apprenticeships, or any opportunity that allows me to grow professionally and contribute my knowledge.
 </div>
 
-##
-<div id="banana" align="center">
-  <h1>
-   <img src ="https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif"> Thank you for passing by! <img src ="https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif"> 
-  </h1>
-</div>
 
 <div id="pez" align="center"> 
 <a href= "https://jeroperales.github.io"> <img src="https://github.com/user-attachments/assets/54178976-349c-4f64-b629-b599f224c66d" height="150px"> </a>  
