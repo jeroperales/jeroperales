@@ -15,7 +15,7 @@
 
 ## 🌱 Deepening Knowledge:
 <div>
-<img src="https://img.shields.io/badge/python-%23DD0031.svg?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
 ## 📞Contact Me:
