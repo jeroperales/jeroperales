@@ -28,9 +28,7 @@
 
 ## :man_technologist: About Me:
 <div>
-I'm 23 years old, and I'm passionate about programming. I'm about to graduate with a University Technical Degree in Programming from UTN in Mar del Plata.
-I have knowledge of HTML, CSS, Java, Angular, C, MySQL, and Git. I'm looking to enter the job market to gain experience, both in the technologies I already master and those I'm yet to learn.
-I'm available and interested in internships, apprenticeships, or any opportunity that allows me to grow professionally and contribute my knowledge.
+I'm a motivated and curious person interested in technology and software development. I finished my coursework in Programming at Universidad Tecnologica Nacional and just missing my final/thesis. I'm currently building my skills through personal projects and learning while working full-time. I enjoy learning new things, solving problems, and connecting with people in the tech community.
 </div>
 
 
