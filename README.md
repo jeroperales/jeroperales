@@ -18,11 +18,6 @@
 <img src="https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-## 📞Contact Me:
-<div>
-<a  href="mailto:jeronimoperales1@gmail.com">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">  </a>  <!-- GMAIL -->
-
-</div>
 
 <div id="pez" align="center"> 
 <a href= "https://jeroperales.github.io"> <img src="https://github.com/user-attachments/assets/54178976-349c-4f64-b629-b599f224c66d" height="150px"> </a>  
