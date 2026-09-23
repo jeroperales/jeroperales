@@ -20,17 +20,9 @@
 
 ## 📞Contact Me:
 <div>
-<a href="https://www.linkedin.com/in/jero-perales-807389293"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a>  <!-- LINKED IN -->
 <a  href="mailto:jeronimoperales1@gmail.com">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">  </a>  <!-- GMAIL -->
 
 </div>
-
-
-## :man_technologist: About Me:
-<div>
-I'm a motivated and curious person interested in technology and software development. I finished my coursework in Programming at Universidad Tecnologica Nacional and just missing my final/thesis. I'm currently building my skills through personal projects and learning while working full-time. I enjoy learning new things, solving problems, and connecting with people in the tech community.
-</div>
-
 
 <div id="pez" align="center"> 
 <a href= "https://jeroperales.github.io"> <img src="https://github.com/user-attachments/assets/54178976-349c-4f64-b629-b599f224c66d" height="150px"> </a>  
