@@ -1,6 +1,6 @@
-<div id="banner" align="center"> 
+<!-- <div id="banner" align="center"> 
 <a href= "https://github.com/jeroperales"> <img src="https://github.com/user-attachments/assets/a227f642-c650-4f4b-b151-ef2c76d7f2c5"> </a>  
-</div>
+</div> -->
 
 ## ❄️ Languages & Tools:
 <div>
